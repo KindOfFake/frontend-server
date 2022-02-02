@@ -1,7 +1,5 @@
 {
-  "name": "client-side",
-
-  "proxy": "http://localhost:3100",  
+  "name": "client-side", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
